@@ -12,6 +12,6 @@ public class GoodsController {
 
     @RequestMapping(value = "/goodslist")
     public String goodslist(){
-        return "welcome";
+        return "welcome1";
     }
 }
